@@ -1,0 +1,39 @@
+# Environments and Secrets
+.env
+.env.local
+.env.*.local
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+python/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node/JavaScript dependencies
+node_modules/
+dist/
+build/
+.npm
+.eslintcache
+
+# IDE Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
