@@ -81,3 +81,5 @@ def show_reminders(session):
         print("\n✨ You are all caught up! No overdue tasks or upcoming therapy sessions today.")
         
     print("\n" + "="*50)
+
+# Updated by grace1513
