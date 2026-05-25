@@ -67,3 +67,5 @@ def view_exercises_by_stage(stage):
         else:
             print("1. Diaphragmatic Deep Breathing (10 mins)")
             print("   Description: Focus on lung expansion, stress relief, and abdominal contraction.")
+
+# Updated by sampsonfoli16

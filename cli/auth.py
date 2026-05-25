@@ -129,3 +129,5 @@ def login_user_cli():
         else:
             print("Available quick-demo usernames (type as username): patient, provider, admin, volunteer, family.")
             return None
+
+# Updated by sampsonfoli16

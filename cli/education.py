@@ -212,3 +212,5 @@ def delete_article_admin():
             print("Deletion cancelled.")
     except Exception as e:
         print(f"Error deleting article: {e}")
+
+# Updated by sampsonfoli16
