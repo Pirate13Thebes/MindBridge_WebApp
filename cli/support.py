@@ -125,3 +125,5 @@ def delete_support_admin():
             print("Error: Listing not found.")
     except Exception as e:
         print(f"Error deleting from MongoDB: {e}. (Ensure ID format is a valid 24-character hexadecimal string)")
+
+# Updated by fkangira

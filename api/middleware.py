@@ -57,3 +57,5 @@ def patient_required(f):
             return jsonify({"message": "Access Denied: Patient role required."}), 403
         return f(*args, **kwargs)
     return decorated
+
+# Updated by fkangira

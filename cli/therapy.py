@@ -265,3 +265,5 @@ def view_all_sessions_admin():
             print(f"ID: {s['session_id']} | Date: {date_str} | Client: {s['patient_name']} | Therapist: {s['therapist_name']} | Status: {s['status'].upper()}")
     except Exception as e:
         print(f"Error retrieving sessions: {e}")
+
+# Updated by fkangira
