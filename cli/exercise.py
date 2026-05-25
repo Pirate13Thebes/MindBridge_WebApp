@@ -69,3 +69,5 @@ def view_exercises_by_stage(stage):
             print("   Description: Focus on lung expansion, stress relief, and abdominal contraction.")
 
 # Updated by sampsonfoli16
+
+# Updated by sampsonfoli16
